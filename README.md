@@ -12,7 +12,8 @@
  
   ### Dataset Used:- 
   
-  Source: Hospital Emergency Room Data Logs- Data Fields: Patient count, Wait time, Admission status, Referral departments, Gender, Race, Age
+  #### Source:
+  From Kaggle Dataset- Data Fields: Patient count, Wait time, Admission status, Referral departments, Gender, Race, Age
  group, Satisfaction score, Hourly breakdown
  
   ### Questions Addressed:
@@ -25,13 +26,23 @@
  6. 
  ### Process:-
  
- Tool Used: Power BI for data visualization- Data Preparation:
+ #### Tool Used:
+ Power BI for data visualization- Data Preparation:
   - Cleaned and categorized patient data by demographic and visit attributes
   - Aggregated patient referrals and wait times- Visualizations Created:
   - KPI indicators for total patients, referrals, and satisfaction
   - Bar and pie charts for age group, gender, and race analysis
   - Heatmaps for hourly and daily traffic patterns
   - Department-wise referral breakdown
+
+### Dashboard:-
+"C:\Users\vitab\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 094127.png"
+
+
+
+
+
+
   - 
  ### Project Insights:- 
  
