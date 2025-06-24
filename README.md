@@ -43,12 +43,15 @@
 ### Project Insights:- 
  
  Total Patients: 431
+ 
  Admission Rate: 51.97% 
- admitted; 48.03% 
- not admitted- 
+ 
+ admitted; 48.03%  not admitted- 
  Avg Wait Time: 36.7 
- minutes- Satisfaction Score: 4.72- 
+ minutes- Satisfaction Score: 4.72
+ 
  Referrals: 179 
+ 
  patients referred, mostly to General Practice (89)- 
  Gender Distribution: 54.29% Male, 45.00% Female, 0.7% Not Conforming  
  Most Active Age Group: 30-39 and 70-79 years with 66 patients each- 
