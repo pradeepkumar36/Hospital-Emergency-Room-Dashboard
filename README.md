@@ -1,5 +1,10 @@
 # Hospital Emergency Room Dashboard
 
+### Dashboard:-
+"C:\Users\vitab\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 094127.png"
+![Screenshot 2025-05-21 094127](https://github.com/user-attachments/assets/fd370d7b-f490-4734-a851-5afe02852c5d)
+
+
  ### Project Title:
  
  Hospital Emergency Room Dashboard - Monthly View
@@ -34,11 +39,6 @@
   - Bar and pie charts for age group, gender, and race analysis
   - Heatmaps for hourly and daily traffic patterns
   - Department-wise referral breakdown
-
-### Dashboard:-
-"C:\Users\vitab\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 094127.png"
-![Screenshot 2025-05-21 094127](https://github.com/user-attachments/assets/fd370d7b-f490-4734-a851-5afe02852c5d)
-
 
 ### Project Insights:- 
  
