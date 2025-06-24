@@ -43,28 +43,4 @@
 
 
 
-
-
-  - 
- ### Project Insights:- 
  
- Total Patients: 431
- Admission Rate: 51.97% 
- admitted; 48.03% 
- not admitted- 
- Avg Wait Time: 36.7 
- minutes- Satisfaction Score: 4.72- 
- Referrals: 179 
- patients referred, mostly to General Practice (89)- 
- Gender Distribution: 54.29% Male, 45.00% Female, 0.7% Not Conforming  
- Most Active Age Group: 30-39 and 70-79 years with 66 patients each- 
- Race Distribution: Majority were White (124), followed by African American (89), and Asian (43)
- Peak Traffic Day: Thursday (77 patients), Peak Hour: 15-16 (10 patients)
- 
- ### Final Conclusion:
- 
- This dashboard offers a comprehensive view of emergency room operations. The data reveals key
- performance metrics such as wait times and patient satisfaction. The peak hours and days can help
- optimize staff allocation. Demographic breakdowns inform targeted healthcare strategies, and
- referral patterns suggest resource planning needs in specific departments. Overall, the dashboard
- supports operational efficiency and patient care improvement
