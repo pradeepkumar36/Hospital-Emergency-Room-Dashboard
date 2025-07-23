@@ -1,23 +1,17 @@
 # Hospital Emergency Room Dashboard
 
-### Dashboard:-
-"C:\Users\vitab\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 094127.png"
-![Screenshot 2025-05-21 094127](https://github.com/user-attachments/assets/fd370d7b-f490-4734-a851-5afe02852c5d)
-
-
- ### Project Title:
- 
- Hospital Emergency Room Dashboard - Monthly View
- 
-  ### Project Objective:
+ ### Project Objective:
   
  To analyze and monitor emergency room performance and patient statistics on a monthly basis.
  This helps identify trends in admissions, wait times, demographics, and department efficiency,
  aiming to optimize healthcare service delivery.
- 
-  ### Dataset Used:- 
+
+### Dashboard:-
+![Screenshot 2025-05-21 094127](https://github.com/user-attachments/assets/fd370d7b-f490-4734-a851-5afe02852c5d)
+
+### Dataset Used:- 
   
-  #### Source:
+ #### Source:
   From Kaggle Dataset- Data Fields: Patient count, Wait time, Admission status, Referral departments, Gender, Race, Age
  group, Satisfaction score, Hourly breakdown
  
